@@ -1,0 +1,11 @@
+"tycoon"
+{
+	"base"		"base"
+	"title"		"Tycoon"
+	"maps"		"^tycoon_"
+	"menusystem"		"1"
+	
+	"settings"
+	{
+	}
+}
